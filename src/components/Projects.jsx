@@ -1,4 +1,3 @@
-import React from 'react';
 import { TbExternalLink } from "react-icons/tb";
 import { motion } from 'framer-motion';
 
